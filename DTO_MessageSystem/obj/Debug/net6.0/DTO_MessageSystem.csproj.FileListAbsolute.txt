@@ -1,0 +1,12 @@
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\DTO_MessageSystem\bin\Debug\net6.0\DTO_MessageSystem.deps.json
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\DTO_MessageSystem\bin\Debug\net6.0\DTO_MessageSystem.dll
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\DTO_MessageSystem\bin\Debug\net6.0\DTO_MessageSystem.pdb
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\DTO_MessageSystem\obj\Debug\net6.0\DTO_MessageSystem.csproj.AssemblyReference.cache
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\DTO_MessageSystem\obj\Debug\net6.0\DTO_MessageSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\DTO_MessageSystem\obj\Debug\net6.0\DTO_MessageSystem.AssemblyInfoInputs.cache
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\DTO_MessageSystem\obj\Debug\net6.0\DTO_MessageSystem.AssemblyInfo.cs
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\DTO_MessageSystem\obj\Debug\net6.0\DTO_MessageSystem.csproj.CoreCompileInputs.cache
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\DTO_MessageSystem\obj\Debug\net6.0\DTO_MessageSystem.dll
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\DTO_MessageSystem\obj\Debug\net6.0\refint\DTO_MessageSystem.dll
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\DTO_MessageSystem\obj\Debug\net6.0\DTO_MessageSystem.pdb
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\DTO_MessageSystem\obj\Debug\net6.0\ref\DTO_MessageSystem.dll

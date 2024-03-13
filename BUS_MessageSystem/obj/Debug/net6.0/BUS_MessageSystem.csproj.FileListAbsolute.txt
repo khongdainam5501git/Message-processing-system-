@@ -1,0 +1,60 @@
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\bin\Debug\net6.0\BUS_MessageSystem.deps.json
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\bin\Debug\net6.0\BUS_MessageSystem.dll
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\bin\Debug\net6.0\BUS_MessageSystem.pdb
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\bin\Debug\net6.0\DAL_MessageSystem.dll
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\bin\Debug\net6.0\DAL_MessageSystem.pdb
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.csproj.AssemblyReference.cache
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.AssemblyInfoInputs.cache
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.AssemblyInfo.cs
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.csproj.CoreCompileInputs.cache
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.csproj.CopyComplete
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.dll
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\obj\Debug\net6.0\refint\BUS_MessageSystem.dll
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.pdb
+C:\Users\TUAN KIET\source\repos\OOP-Money\Lab6\BUS_MessageSystem\obj\Debug\net6.0\ref\BUS_MessageSystem.dll
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\bin\Debug\net6.0\BUS_MessageSystem.deps.json
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\bin\Debug\net6.0\BUS_MessageSystem.dll
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\bin\Debug\net6.0\BUS_MessageSystem.pdb
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\bin\Debug\net6.0\DAL_MessageSystem.dll
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\bin\Debug\net6.0\DAL_MessageSystem.pdb
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.csproj.AssemblyReference.cache
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.AssemblyInfoInputs.cache
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.AssemblyInfo.cs
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.csproj.CoreCompileInputs.cache
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.csproj.CopyComplete
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.dll
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\obj\Debug\net6.0\refint\BUS_MessageSystem.dll
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.pdb
+C:\Users\khong\Downloads\Lab6\BUS_MessageSystem\obj\Debug\net6.0\ref\BUS_MessageSystem.dll
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\bin\Debug\net6.0\BUS_MessageSystem.deps.json
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\bin\Debug\net6.0\BUS_MessageSystem.dll
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\bin\Debug\net6.0\BUS_MessageSystem.pdb
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\bin\Debug\net6.0\DAL_MessageSystem.dll
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\bin\Debug\net6.0\DAL_MessageSystem.pdb
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.csproj.AssemblyReference.cache
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.AssemblyInfoInputs.cache
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.AssemblyInfo.cs
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.csproj.CoreCompileInputs.cache
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.csproj.CopyComplete
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.dll
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\obj\Debug\net6.0\refint\BUS_MessageSystem.dll
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.pdb
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6\BUS_MessageSystem\obj\Debug\net6.0\ref\BUS_MessageSystem.dll
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.dll
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\obj\Debug\net6.0\refint\BUS_MessageSystem.dll
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.pdb
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\bin\Debug\net6.0\BUS_MessageSystem.deps.json
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\bin\Debug\net6.0\BUS_MessageSystem.dll
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\bin\Debug\net6.0\BUS_MessageSystem.pdb
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\bin\Debug\net6.0\DAL_MessageSystem.dll
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\bin\Debug\net6.0\DAL_MessageSystem.pdb
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.csproj.AssemblyReference.cache
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.AssemblyInfoInputs.cache
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.AssemblyInfo.cs
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.csproj.CoreCompileInputs.cache
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\obj\Debug\net6.0\BUS_MessageSystem.csproj.CopyComplete
+C:\Users\khong\OneDrive - ITMO UNIVERSITY\Desktop\Semester 3\ООП\Lab6_by_desktop\BUS_MessageSystem\obj\Debug\net6.0\ref\BUS_MessageSystem.dll
